@@ -1,0 +1,37 @@
+_repo: A-Practical-Illustration-of--Woman-s-Right-to-Labor---13-A-Letter-from-Marie-E.-Zakrzewska-M.__11270
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zakrzewska, Marie E. (Marie Elizabeth)
+    alias: Zakrzewska, Marie Elizabeth
+    birthdate: 1829
+    deathdate: 1902
+    gutenberg_agent_id: '3913'
+    url: http://www.gutenberg.org/2009/agents/3913
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Zakrzewska
+  editor:
+    agent_name: Dall, Caroline Wells Healey
+    aliases:
+    - Healey, Caroline Wells
+    - Dall, Caroline Healey
+    birthdate: 1822
+    deathdate: 1912
+    gutenberg_agent_id: '5122'
+    url: http://www.gutenberg.org/2009/agents/5122
+    wikipedia: http://www.pinn.net/~sunshine/whm2002/dall.html
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Employment'
+- !lcc 'HD'
+- GITenberg
+title: "A Practical Illustration of \"Woman's Right to Labor\"\r\nA Letter from Marie\
+  \ E. Zakrzewska, M.D. Late of Berlin, Prussia"
+url: http://www.gutenberg.org/ebooks/11270
